@@ -1,0 +1,13 @@
+{
+  "userName": "",
+  "userPassword": "",
+  "uid": "reb803h3f0ek0a0795vh0os5_2efa7f0",
+  "sid": "0bgr8hd2iafjn8ijfnq4fn28_2efa7f0",
+  "pushToolbaseUrl": "https://h511000002.education.scholastic.com/iRead/core.cd?",
+  "assetBundleUrl": "http://127.0.0.1:4000/",
+  "streamingAssetUrl": "http://127.0.0.1:4002/",
+
+  "streamingAudiosUrl": "http://localhost:4002/Audios/",
+
+  "streamingVideosUrl": "http://localhost:4002/Videos/"
+}
